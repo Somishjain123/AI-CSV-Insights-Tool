@@ -8,6 +8,10 @@
 <h1 align="center">📊 AI CSV Insights Tool</h1>
 <p align="center"><em>Upload any CSV. Get instant analytics, smart insights & publication-ready charts — zero code required.</em></p>
 
+<p align="center">
+🚀 <a href="https://ai-csv-insights-tool-5afm9umouylxm4uusazcou.streamlit.app/">Live Demo</a>
+</p>
+
 ---
 
 ## 🚀 Overview
